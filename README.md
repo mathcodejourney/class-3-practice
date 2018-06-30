@@ -1,1 +1,3 @@
-# class-3-practice
+# class3practice
+
+This is a cool practice
